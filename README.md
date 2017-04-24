@@ -14,7 +14,7 @@
 ### Dan Tello
 <img src="images/headshot.jpg" width="180" style="float: right; margin-left: 32px; max-width: 33%" alt="Dan Tello" />
 
-**Ex-graphic designer who fell in love with code.** I've been creating for web since age 12, starting with the premier developer tool of the day: Microsoft Word '97. I've since traded in WordArt and rainbow gradients for a terminal and text editor, but my appreciation for (and undergraduate degree in) graphic design still shine through.
+**Ex-graphic designer who fell in love with code.** I've been creating for the web since age 12, starting with the premier developer tool of the day: Microsoft Word '97. I've since traded in WordArt and rainbow gradients for a terminal and text editor, but my appreciation for (and undergraduate degree in) graphic design still shine through.
 
 At work, I spend my time building fast and accessible JavaScript applications (React.js ❤), collaborating with visual and UX designers, and tweaking [build tools](https://github.com/vigetlabs/gulp-starter).
 
@@ -26,11 +26,11 @@ At work, I spend my time building fast and accessible JavaScript applications (R
 ## Selected Work 🦄
 
 ### Avalon
-Lead JS/Front-End Developer on a collaborative network graph editing tool for cyber security analysts. I helped take the product from white board concepts to a fully viable product with close collaboration with our the client's back-end developer and members of our UX and Design team. 
+Lead JS/Front-End Developer on a collaborative network graph editing tool for cyber security analysts. I helped take the product from white board concepts to a fully featured product with close collaboration with our the client's back-end developer and members of our UX and Design team. 
 
 ![Avalon Demo](images/avalon-demo.gif)
 
-React + Microcosm (flux) app backed by WebSockets a Django REST API. The interactive network graph visualization is built on top of Vis.js.
+React.js + Microcosm.js (flux) app backed by WebSockets a Django REST API. The interactive network graph visualization is built on top of Vis.js.
 
 
 ### Privia Medical Group
@@ -38,11 +38,11 @@ Lead JS/Front-End Developer building a new coordinated patient health care manag
 
 ![Privia Demo](images/privia-demo.gif)
 
-Forms were a big part of the interface, so I built a robust form component library to allow back-end devs to easily create consistent form layouts with proper styling, error handling, and data submission with minimal markup.
+Forms were a big part of the interface, so I built a robust React component library to allow back-end devs to easily create consistent form layouts with proper styling, error handling, and data submission with minimal markup.
 
 ![Privia Component Example](images/privia-form-components.png)
 
-React + Microcosm (flux) app backed by Rails JSON API 
+React.js + Microcosm.js (flux) app backed by Rails JSON API 
 
 ### Post Creator
 
@@ -60,7 +60,8 @@ Backbone.js 💀, Create.js, Ruby on Rails
 Collaborated with a Designer on an 8-bit style infinite runner game built for Puma.com during the 2012 Summer Olympics. One of my favorite projects of all time :) Featured as a [FWA site of the day](https://thefwa.com/cases/run-puma-run).
 
 [![Run Puma Run](images/run-puma-run.gif)](code.viget.com/run-puma-run)
-JavaScript + canvas, no libraries! Created 100% original sound effects in Garage Band. Soundtrack is stock. [Click to play!](code.viget.com/run-puma-run)
+
+JavaScript + canvas — no libraries! Created original sound effects in Garage Band. [Click to play!](code.viget.com/run-puma-run)
 
 ## Open Source Projects <img src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" width="24"/>
 
@@ -74,14 +75,14 @@ Strings together compiling Webpack 2 (with Babel and hot-module replacement), No
 
 <a class="github-button" href="https://github.com/vigetlabs/gulp-starter" data-icon="octicon-star" data-style="mega" data-count-href="/vigetlabs/gulp-starter/stargazers" data-count-api="/repos/vigetlabs/gulp-starter#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star vigetlabs/gulp-starter on GitHub">Star</a>
 
-This is Viget's most popular open source project, and used internally on most of our projects. Grew steadily out of ideas from my [Gulp + Browserify](https://www.viget.com/articles/gulp-browserify-starter-faq) blog post in 2014.
+This is Viget's most popular open source project, and used on most of our client work. Grew steadily out of ideas from my [Gulp + Browserify](https://www.viget.com/articles/gulp-browserify-starter-faq) blog post in 2014.
 
 [https://github.com/vigetlabs/gulp-starter](https://github.com/vigetlabs/gulp-starter)
 
 
 ### Ca11y
 
-A lightweight accessible dependency-free datepicker. Keyboard accessible with special attention to Apple Voiceover dictation.
+A lightweight, dependency-free, keyboard accessible datepicker with special attention to Apple Voiceover dictation.
 
 ![Cally Demo](images/ca11y-demo-vo.gif)
 
@@ -98,6 +99,7 @@ Primarily for Internet Explorer compatibility with external SVG sprites.
 ## Writing ✏️
 
 ### Viget.com
+Without blog posts, stack overflow, and Google, I wouldn't be the developer I am today. I have learned so much because others took the time to publish what they've learned to a url. When time permits, I try to give back and add to the collective knowledge from which I built a career.
 
 ⭐️ [Native or Not? The Untapped Power of Web Apps](https://www.viget.com/articles/native-or-not-the-untapped-power-of-web-apps)
 
@@ -126,7 +128,7 @@ Primarily for Internet Explorer compatibility with external SVG sprites.
 
 ## Speaking 💬
 
-[SpeakerRate Profile](https://speakerrate.com/speakers/17504-dan-tello)
+I love attending conferences to listen to the experiences of others in our industry. I also love sharing knowledge back with the community I've gained so much from. I've been speaking at conferences and meetups regularly since 2013. [View my SpeakerRate profile.](https://speakerrate.com/speakers/17504-dan-tello)
 
 ### Microcosm.js: An evolution of Flux
 
@@ -152,7 +154,7 @@ Highlights all of the sometimes overlooked capabilities and benefits of the brow
 - [Forge Conf 2015](http://2015.forgeconf.com/)
 
 ### Desktop Last: What are we so afraid of?
-A plea for mobile focused project pitching, planning, design, and execution, and an argument that ALL experiences, large and small will benefit.
+A plea for mobile focused project pitching, planning, design, and execution, and an argument that ALL experiences, large and small will profit.
 
 [View Slides](http://slides.com/dantello/desktop-last)
 
@@ -161,7 +163,7 @@ A plea for mobile focused project pitching, planning, design, and execution, and
 - [Giant Conf 2014](http://2014.giantconf.com/) 
 
 
-### Game Development with Javascript and Canvas
+### Game Development with JavaScript and Canvas
 
 Intro to building a game with JavaScript and the HTML Canvas element with a peek under the hood at building Run Puma Run.
 
