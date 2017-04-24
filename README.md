@@ -1,19 +1,17 @@
 <br>
-<br>
-# DAN TELLO
+# README
 
-<img src="images/headshot.jpg" width="180" style="float: right; margin-right: 32px" alt="Combover" />
+### Dan Tello
+<img src="images/headshot.jpg" width="180" style="float: right; margin-left: 32px" alt="Dan Tello" />
 
-**Ex-graphic designer who fell in love with code.** 
-
-I've been creating for web since age 12, starting with the premier developer tool of the day: Microsoft Word '97. I've since traded in WordArt and rainbow gradients for a terminal and text editor, but my appreciation for (and undergraduate degree in) graphic design still shine through.
+**Ex-graphic designer who fell in love with code.** I've been creating for web since age 12, starting with the premier developer tool of the day: Microsoft Word '97. I've since traded in WordArt and rainbow gradients for a terminal and text editor, but my appreciation for (and undergraduate degree in) graphic design still shine through.
 
 At work, I spend my time building fast and accessible JavaScript applications (React.js ❤), collaborating with visual and UX designers, and tweaking [build tools](https://github.com/vigetlabs/gulp-starter).
 
-- Github: [@greypants](https://github.com/greypants)
-- Twitter: [@dantello5](https://twitter.com/dantello5)
-- Instagram: [@suchgreywow](https://www.instagram.com/suchgreywow/)
-- LinkedIn: [@greypants](https://www.linkedin.com/in/greypants/)
+- Github - [@greypants](https://github.com/greypants)
+- Twitter - [@dantello5](https://twitter.com/dantello5)
+- Instagram - [@suchgreywow](https://www.instagram.com/suchgreywow/)
+- LinkedIn - [@greypants](https://www.linkedin.com/in/greypants/)
 
 ## Selected Work 🦄
 
@@ -41,6 +39,9 @@ React + Microcosm (flux) app backed by Rails JSON API
 Lead JS/Front-End Developer building a social media graphic creation and posting tool that can simultaneously post content to multiple destinations. We took the client's idea from white board to product.
 
 ![Post Creator Screenshot](images/post-creator-screenshot.png)
+
+While it didn't start as a mobile-focused product, we did end up adapting it for small screens.
+
 ![Post Creator Mobile](images/post-creator-mobile-demo.gif)
 
 Backbone.js 💀, Create.js, Ruby on Rails
@@ -124,7 +125,8 @@ An overview of the action-centered Flux implementation Viget uses on all of our 
 [View Slides](http://slides.com/dantello/microcosm-js)
 
 #### Events
-##### [React Nova January 2017](https://www.meetup.com/React-NOVA/events/236123537/)
+
+- [React Nova January 2017](https://www.meetup.com/React-NOVA/events/236123537/)
 
 
 ### Native or Not? The untapped power of web apps
@@ -135,12 +137,9 @@ Highlights all of the sometimes overlooked capabilities and benefits of the brow
 
 #### Events 
 
-##### [BD Conf Washington DC 2015](http://bdconf.com/events/washington-dc/)
-
-##### [BD Conf Nashville 2015](http://bdconf.com/events/nashville/)
-
-##### [Forge Conf 2015](http://2015.forgeconf.com/)
-
+- [BD Conf Washington DC 2015](http://bdconf.com/events/ashington-dc/)
+- [BD Conf Nashville 2015](http://bdconf.com/events/nashville/)
+- [Forge Conf 2015](http://2015.forgeconf.com/)
 
 ### Desktop Last: What are we so afraid of?
 A plea for mobile focused project pitching, planning, design, and execution, and an argument that ALL experiences, large and small will benefit.
@@ -149,7 +148,7 @@ A plea for mobile focused project pitching, planning, design, and execution, and
 
 #### Events 
 
-##### [Giant Conf 2014](http://2014.giantconf.com/) 
+- [Giant Conf 2014](http://2014.giantconf.com/) 
 
 
 ### Game Development with Javascript and Canvas
@@ -160,11 +159,9 @@ Intro to building a game with JavaScript and the HTML Canvas element with a peek
 
 #### Events
 
-##### [Converge SE 2014](http://convergese.com/2014/speakers.php#dan-tello)
-
-##### [Converge RVA 2013](https://www.flickr.com/photos/petridisc/sets/72157636544436635/)
-
-##### [Front End Design Conf 2013](http://frontenddesignconference.com/2013.html) (attendee track)
+- [Converge SE 2014](http://convergese.com/2014/speakers.php#dan-tello)
+- [Converge RVA 2013](https://www.flickr.com/photos/petridisc/sets/72157636544436635/)
+- [Front End Design Conf 2013](http://frontenddesignconference.com/2013.html) (attendee track)
 
 
 <!-- Place this tag in your head or just before your close body tag. -->
