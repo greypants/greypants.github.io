@@ -123,7 +123,7 @@ Without blog posts, stack overflow, and Google, I wouldn't be the developer I am
 
 ### net magazine
 - **Issue 282** _"Voice of the Web - Design Gallery"_ August 2016
-- **Issue 262** _"Desktop Last: What are we so afraid of?"_ January 2015 <br>Re-published online as _["How to get your clients excited about moblie-first"](http://www.creativebloq.com/web-design/how-get-your-clients-excited-about-mobile-first-101517507)_
+- **Issue 262** _"Desktop Last: What are we so afraid of?"_ January 2015 <br>Re-published online as _["How to get your clients excited about mobile-first"](http://www.creativebloq.com/web-design/how-get-your-clients-excited-about-mobile-first-101517507)_
 - **Issue 244** _["The Paint Drop: a masterclass in responsive design"](http://www.creativebloq.com/web-design/paint-drop-8134189)_ July 2014 (mention/interview)
 
 ## Speaking 💬
@@ -143,7 +143,7 @@ An overview of the action-centered Flux implementation Viget uses on all of our 
 
 ### Native or Not? The untapped power of web apps
 
-Highlights all of the sometimes overlooked capabilities and benefits of the browser on your phone, as well as scenarios where web might better fit then native.
+Highlights all of the sometimes overlooked capabilities and benefits of the browser on your phone, as well as scenarios where web might better fit than native.
 
 [View Slides](http://slides.com/dantello/native-or-not-3-4)
 
