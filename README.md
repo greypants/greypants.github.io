@@ -1,8 +1,18 @@
-<br>
+<style>
+  .container {
+    max-width: 90%;
+    padding: 5% 0;
+  }
+
+  .markdown-body h2 {
+    margin-top: 64px;
+  }
+</style>
+
 # README
 
 ### Dan Tello
-<img src="images/headshot.jpg" width="180" style="float: right; margin-left: 32px" alt="Dan Tello" />
+<img src="images/headshot.jpg" width="180" style="float: right; margin-left: 32px; max-width: 33%" alt="Dan Tello" />
 
 **Ex-graphic designer who fell in love with code.** I've been creating for web since age 12, starting with the premier developer tool of the day: Microsoft Word '97. I've since traded in WordArt and rainbow gradients for a terminal and text editor, but my appreciation for (and undergraduate degree in) graphic design still shine through.
 
