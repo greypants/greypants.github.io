@@ -16,7 +16,7 @@
 
 **Ex-graphic designer who fell in love with code.** I've been creating for the web since age 12, starting with the premier developer tool of the day: Microsoft Word '97. I've since traded in WordArt and rainbow gradients for a terminal and text editor, but my appreciation for (and undergraduate degree in) graphic design still shine through.
 
-At work, I spend my time building fast and accessible JavaScript applications (React.js ❤), collaborating with visual and UX designers, and tweaking [build tools](https://github.com/vigetlabs/gulp-starter).
+At work, I spend my time building fast and accessible JavaScript applications (React.js ❤), collaborating with visual and UX designers, and tweaking [build tools](https://github.com/vigetlabs/gulp-starter/tree/blendid).
 
 - Github - [@greypants](https://github.com/greypants)
 - Twitter - [@dantello5](https://twitter.com/dantello5)
@@ -67,7 +67,7 @@ JavaScript + canvas — no libraries! Created original sound effects in Garage B
 
 ### Blendid
 
-A delicious blend of gulp tasks combined into a configurable asset pipeline and static site builder. 
+A delicious blend of gulp tasks combined into a configurable asset pipeline and static site builder.
 
 ![Blendid Logo](images/blendid-logo.png)
 
@@ -77,7 +77,7 @@ Strings together compiling Webpack 2 (with Babel and hot-module replacement), No
 
 This is Viget's most popular open source project, and used on most of our client work. Grew steadily out of ideas from my [Gulp + Browserify](https://www.viget.com/articles/gulp-browserify-starter-faq) blog post in 2014.
 
-[https://github.com/vigetlabs/gulp-starter](https://github.com/vigetlabs/gulp-starter)
+[https://github.com/vigetlabs/gulp-starter/tree/blendid](https://github.com/vigetlabs/gulp-starter/tree/blendid)
 
 
 ### Ca11y
