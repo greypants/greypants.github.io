@@ -59,7 +59,7 @@ Backbone.js 💀, Create.js, Ruby on Rails
 ### Run Puma Run
 Collaborated with a Designer on an 8-bit style infinite runner game built for Puma.com during the 2012 Summer Olympics. One of my favorite projects of all time :) Featured as a [FWA site of the day](https://thefwa.com/cases/run-puma-run).
 
-[![Run Puma Run](images/run-puma-run.gif)](code.viget.com/run-puma-run)
+[![Run Puma Run](images/run-puma-run.gif)](http://code.viget.com/run-puma-run)
 
 JavaScript + canvas — no libraries! Created original sound effects in Garage Band. [Click to play!](code.viget.com/run-puma-run)
 
