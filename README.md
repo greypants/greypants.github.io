@@ -178,3 +178,4 @@ Intro to building a game with JavaScript and the HTML Canvas element with a peek
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+
