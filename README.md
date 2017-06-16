@@ -73,11 +73,11 @@ A delicious blend of gulp tasks combined into a configurable asset pipeline and 
 
 Strings together compiling Webpack 2 (with Babel and hot-module replacement), Node Sass, BrowserSync, SVG Sprite creation, HTML templating (Nunjucks) and other assets together into a single package with minimal configuration. 
 
-<a class="github-button" href="https://github.com/vigetlabs/gulp-starter" data-icon="octicon-star" data-style="mega" data-count-href="/vigetlabs/gulp-starter/stargazers" data-count-api="/repos/vigetlabs/gulp-starter#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star vigetlabs/gulp-starter on GitHub">Star</a>
+<a class="github-button" href="https://github.com/vigetlabs/blendid" data-icon="octicon-star" data-style="mega" data-count-href="/vigetlabs/blendid/stargazers" data-count-api="/repos/vigetlabs/blendid#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star vigetlabs/blendid on GitHub">Star</a>
 
 This is Viget's most popular open source project, and used on most of our client work. Grew steadily out of ideas from my [Gulp + Browserify](https://www.viget.com/articles/gulp-browserify-starter-faq) blog post in 2014.
 
-[https://github.com/vigetlabs/gulp-starter/tree/blendid](https://github.com/vigetlabs/gulp-starter/tree/blendid)
+[https://github.com/vigetlabs/blendid](https://github.com/vigetlabs/blendid)
 
 
 ### Ca11y
