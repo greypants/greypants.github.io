@@ -61,7 +61,7 @@ Collaborated with a Designer on an 8-bit style infinite runner game built for Pu
 
 [![Run Puma Run](images/run-puma-run.gif)](http://code.viget.com/run-puma-run)
 
-JavaScript + canvas — no libraries! Created original sound effects in Garage Band. [Click to play!](code.viget.com/run-puma-run)
+JavaScript + canvas — no libraries! Created original sound effects in Garage Band. [Click to play!](http://code.viget.com/run-puma-run)
 
 ## Open Source Projects <img src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" width="24"/>
 
