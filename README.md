@@ -16,7 +16,7 @@
 
 **Ex-graphic designer who fell in love with code.** I've been creating for the web since age 12, starting with the premier developer tool of the day: Microsoft Word '97. I've since traded in WordArt and rainbow gradients for a terminal and text editor, but my appreciation for (and undergraduate degree in) graphic design still shine through.
 
-At work, I spend my time building fast and accessible JavaScript applications (React.js ❤), collaborating with visual and UX designers, and tweaking [build tools](https://github.com/vigetlabs/gulp-starter/tree/blendid).
+At work, I spend my time building fast and accessible JavaScript applications (React.js ❤), collaborating with visual and UX designers, and tweaking [build tools](https://github.com/vigetlabs/blendid).
 
 - Github - [@greypants](https://github.com/greypants)
 - Twitter - [@dantello5](https://twitter.com/dantello5)
@@ -178,4 +178,3 @@ Intro to building a game with JavaScript and the HTML Canvas element with a peek
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-
